@@ -1,0 +1,70 @@
+
+	
+		#hrup
+		{
+			font-style:italic;
+			background-color: powderblue;
+		}
+		#super
+		{
+			font-style:bold;
+			background-color: white;
+			float: center;
+    			margin: 5px;
+    			padding: 15px;
+    			
+    			border: 1px solid black;
+			background-image:url("https://s-media-cache-ak0.pinimg.com/736x/1d/48/f7/1d48f74b81f31840c5539abd9daf55e1.jpg" 
+				);
+			
+			background-size: 100%;
+			backgroung-position:top top;
+				
+				 background-repeat: no-repeat;
+			
+		}
+		h3 {
+   				 color: blue;
+  				  font-family: verdana;
+			    font-size: 200%;
+		   }
+		h2
+		{
+			color:brown;
+			font-style:arial;
+			padding:8px;
+		}
+		#ending
+		{	float: center;
+  		  margin: 5px;
+  		  padding: 15px;
+    		  max-width: 5000px;
+    		  height: 300px;
+    		  border: 1px solid black;
+			font-style:italic;
+			background-color: white;
+            background-image: url(Assests/Images/Profile-pic.jpg);
+		}
+			#last{ text-align=right;}
+		ul
+		{	color:gold;	
+			font-style:italic;
+			zoom:200%
+		}
+		#pic {
+			    
+    			
+ 			   max-width: 1%;
+				max-height:1%;
+				  
+
+		}
+		#address
+		{
+			color:orange;
+		}
+		h1{
+			filter:glow(color=#EEEE00,strength=3);
+		  }
+		
+	
